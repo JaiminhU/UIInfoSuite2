@@ -3,7 +3,7 @@
   "Billboard": "Quadro de avisos",
   "Calendar": "Calendário",
   //GUI - Seed shop
-  "HarvestPrice": "Colheita",
+  "HarvestPrice": "Preço da Colheita",
   //Production
   "Days": "dias",
   "Hours": "horas",
@@ -13,15 +13,15 @@
   "ReadyToHarvest": "pronto para colher!",
   //Display icons - General
   "TodaysRecipe": "Receita de hoje: ",
-  "TravelingMerchantIsInTown": "O mercador está na cidade!",
-  "RainNextDay": "Vai chover amanhã",
-  "ThunderstormNextDay": "Haverá uma tempestade amanhã",
-  "SnowNextDay": "Vai nevar amanhã",
-  "IslandRainNextDay": "Vai chover amanhã",
-  "IslandThunderstormNextDay": "Haverá uma tempestade amanhã",
+  "TravelingMerchantIsInTown": "O mercante está na cidade!",
+  "RainNextDay": "Irá chover amanhã",
+  "ThunderstormNextDay": "Irá ocorrer uma tempestade amanhã",
+  "SnowNextDay": "Irá nevar amanhã",
+  "IslandRainNextDay": "Irá chover amanhã na Ilha Gengibre",
+  "IslandThunderstormNextDay": "Irá ocorrer uma tempestade amanhã na Ilha Gengibre",
   "DaysUntilToolIsUpgraded": "{1} ficará pronto em {0} dia(s)",
   "ToolIsFinishedBeingUpgraded": "{0} está pronto!",
-  "NpcBirthday": "Aniversariante do dia: {0}",
+  "NpcBirthday": "{0} faz aniversário hoje.",
   "RobinBuildingStatus": "Robin terminará sua construção em {0} dia(s)",
   // Display icons - Foragables
   "CanFindSalmonberry": "Você pode encontrar amoras-silvestres hoje",
@@ -40,9 +40,9 @@
   "LuckStatus5": "Os espíritos estão meio aborrecidos",
   "LuckStatus6": "Os espíritos estão muito aborrecidos",
   //Settings - General
-  "ShowLevelUpAnimation": "Mostrar animação de Level Up",
+  "ShowLevelUpAnimation": "Mostrar animação de Nível Evoluído",
   "ShowExperienceBar": "Mostrar barra de experiência",
-  "AllowExperienceBarToFadeOut": "Ocultar barra de exp automaticamente",
+  "AllowExperienceBarToFadeOut": "Ocultar barra de EXP automaticamente",
   "ShowExperienceGain": "Mostrar ganho de experiência",
   "ShowLocationOfTownsPeople": "Mostrar pessoas da cidade no mapa",
   "ShowAnimalsNeedPets": "Mostra animais q precisam de carinho",
@@ -65,9 +65,9 @@
   "ShowToolUpgradeStatus": "Exibir ícone de melhorias do Clint",
   "ShowRobinBuildingStatusIcon": "Exibir ícone de construções da Robin",
   "ShowLuckIcon": "Exibir ícone de sorte",
-  "ShowExactValue": "Mostra o valor exato",
+  "ShowExactValue": "Mostrar o valor exato",
   "ShowSeasonalBerry": "Mostrar coletáveis sazonais",
   "ShowSeasonalBerryHazelnut": "Mostrar avelãs nas árvores",
   //Others
-  "LevelUp": "Level Up"
+  "LevelUp": "Nível Evoluído"
 }
